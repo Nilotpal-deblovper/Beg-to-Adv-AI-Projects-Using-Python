@@ -1,2 +1,6 @@
-str="THE WORLD IS BEAUTIFUL IT DPENDS ON HOW YOU SEE IT"
-print(str[: :-1])
+str=input("Enter your favourite food name: ")
+a=len(str)
+b=int((a/2)-1)
+c=int(b+3)
+print("The 3 middle characters of your favourite food",str,"is",str[b:c])
+print("The last two  character of your favourite food",str,"is",str[-2:])
