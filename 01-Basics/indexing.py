@@ -1,0 +1,2 @@
+str="THE WORLD IS BEAUTIFUL IT DPENDS ON HOW YOU SEE IT"
+print(str[: :-1])
